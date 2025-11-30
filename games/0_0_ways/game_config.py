@@ -19,7 +19,7 @@ class GameConfig(Config):
         self.game_id = "0_0_ways"
         self.provider_number = 0
         self.working_name = "sample ways game"
-        self.wincap = 5000
+        self.wincap = 7500
         self.win_type = "ways"
         self.rtp = 0.96
         self.construct_paths()
